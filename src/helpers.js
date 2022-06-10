@@ -1,7 +1,7 @@
 /**
  * Required to install lodash
  */
-const _ = require("lodash");
+// const _ = require("lodash");
 
 module.exports = {
   /**
